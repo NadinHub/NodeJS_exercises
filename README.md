@@ -69,16 +69,16 @@ Create a function which will read the  a text file and replace each whitespace w
 Create a function that receives a path to a file, and the function will convert every fourth word within the file to be uppercase.
 The function will return the count of all the words that were modified.
 
-## 5
+## 6
 Create a function that receives a dir path, and verifies it exists (raise an error if it doesn’t)
 Afterwards it loops through all the files and directories and prints the names of all the directories.
 
-## 6
+## 7
 Create a function that receives 2 paths of 2 text files
 And the function returns a list containing all the words that exists in both text files 
 
 
-## 7
+## 8
 Create a function that receives a directory path as string, splits the path to a list and writes them in a new text file (called dirs.txt)  each directory alongside with its index from the list
 Example:
 Path = C:\john\smith\lib\folders
