@@ -1,3 +1,5 @@
+Name: Nadezhda Krylova
+Private email: nadezhda.krylov@gmail.com
 # NodeJs Exercises
 
 
