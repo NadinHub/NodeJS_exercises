@@ -1,4 +1,4 @@
-## NodeJs Exercises
+# NodeJs Exercises
 
 
 For the following exercises there will be multiple solutions that will work for any given problem you encounter. 
@@ -60,23 +60,23 @@ c) Catch relevant errors
 ## 3
 Create a function that receives a directory path as string, and deletes that path including all files and directories within it.
 
-# 4
+## 4
 Create a function which will read the  a text file and replace each whitespace within the file with a new line and save it using the same file name.
 
-
+## 5
 Create a function that receives a path to a file, and the function will convert every fourth word within the file to be uppercase.
 The function will return the count of all the words that were modified.
 
-
+## 5
 Create a function that receives a dir path, and verifies it exists (raise an error if it doesn’t)
 Afterwards it loops through all the files and directories and prints the names of all the directories.
 
-
+## 6
 Create a function that receives 2 paths of 2 text files
 And the function returns a list containing all the words that exists in both text files 
 
 
-
+## 7
 Create a function that receives a directory path as string, splits the path to a list and writes them in a new text file (called dirs.txt)  each directory alongside with its index from the list
 Example:
 Path = C:\john\smith\lib\folders
