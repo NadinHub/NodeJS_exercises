@@ -12,7 +12,7 @@ Good luck!
 Create a file called square.js that takes a number between 1 - 10 as an argument in the command line. 
 The file should log out a square based on the number passed in. 
 
-Input: 1
+**Input: 1
 Output: #
 
 Input: 2
@@ -21,13 +21,14 @@ Output:  ##
 
 
 Input: 3
-Output: ###
+Output: `###
 	    ###
-	    ###
-
+	    ###`
+**
 Be sure to handle cases where anything between 1-10 is not passed in and print an appropriate message.
 
 ## Ex 2
+//:
 Build a function that creates a log file:
  myLog(msg, relativePath) :
 msg- is the text that will be saved in the log file
@@ -38,10 +39,11 @@ Every entry starts at a new line
 Catches any errors
 
 ## Ex 3
-Create a .txt file that will represent a blog post, you can use Lorem Ipsum text. Create a simple server that when you visit the home page it will return the contents of a txt file. 
+Create a .txt file that will represent a blog post, you can use Lorem Ipsum text. 
+Create a simple server that when you visit the home page it will return the contents of a txt file. 
 
 ## Ex 4
-Create a web server that has 3 html pages, an index, about page, and a 404 page. 
+Create a web server that has 3 html pages, an index, about page, and a 404 page. \n
 When a user attempts to go to the home page they should get the index.html, same with about. 
 If they go to any route that doesn’t exist they should get a 404 page. 
 
