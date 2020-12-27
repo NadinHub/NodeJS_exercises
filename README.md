@@ -45,9 +45,12 @@ _relativePath_ - the path where the file should be saved;
 
 ## Ex 3
 
-Create a **.txt** file that will represent a blog post, you can use *Lorem Ipsum* text.
+Create a **.txt** file that will represent a blog post, you can use *Lorem Ipsum* text.  
+Create a simple server that when you visit the home page it will return the contents of a txt file.  
 
-Create a simple server that when you visit the home page it will return the contents of a txt file.
+**What I did:** I  created .txt file (using fs.writeFileSync), but I didn't use it. Also I created index.html with some HTML code.  
+
+I made the server to return the index.html page.
 
 ## Ex 4
 
