@@ -45,18 +45,18 @@ _relativePath_ - the path where the file should be saved;
 
 ## Ex 3
 
-Create a **.txt** file that will represent a blog post, you can use *Lorem Ipsum* text.  
-Create a simple server that when you visit the home page it will return the contents of a txt file.  
+**The task from ITC:** Create a **.txt** file that will represent a blog post, you can use *Lorem Ipsum* text.  
+Create a simple server that when you visit the home page it will return the contents of a txt file.       
 
-**What I did:** I  created .txt file (using fs.writeFileSync), but I didn't use it. Also I created index.html with some HTML code.  
-
-I made the server to return the index.html page.
+**What I did:** I  created .txt file (using fs.writeFileSync), but I didn't use it the next steps.   
+Also I created index1.html with some HTML code.  
+I made the server to return the index.html page.  
 
 ## Ex 4
 
-Create a web server that has 3 html pages, an **index**, **about** page, and a **404** page.
+Create a web server that has 3 html pages: **index**, **about** and **404**.
 
-When a user attempts to go to the **home** page they should get the **index.html**, same with about.
+When a user attempts to go to the **home** page they should get the **index.html**, same with **about.html**.
 
 If they go to any route that doesn’t exist they should get a **404** page.
 

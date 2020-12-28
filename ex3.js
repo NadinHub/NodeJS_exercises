@@ -15,7 +15,7 @@ fs.writeFileSync(`post.txt`, post, (err) => {
 
 
 const requestListener = function (req, res) {
-    fs.promises.readFile(__dirname + "/index.html")
+    fs.promises.readFile(__dirname + "/index1.html")
     .then (contents =>{
         res.setHeader("Content-Type", "text/html");
         res.writeHead(200);
