@@ -1,7 +1,7 @@
 Name: Nadezhda Krylova
-Private email: nadezhda.krylov@gmail.com
-These exercises were given by ITC (itc.tech);
-The solutions are mine.
+Private email: nadezhda.krylov@gmail.com.
+These exercises were given by ITC (itc.tech);  
+The solutions are mine.  
 
 # NodeJs Exercises
 
